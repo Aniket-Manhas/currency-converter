@@ -8,6 +8,9 @@ A modern, responsive currency converter web application built with React and Tai
 - Dark/Light mode toggle
 - Responsive design
 - Modern, clean user interface
+## Live Demo
+
+Experience the Currency Converter in action: [Live Demo](https://aniket-manhas.github.io/currency-converter/)
 
 ## Tech Stack
 
@@ -26,7 +29,7 @@ A modern, responsive currency converter web application built with React and Tai
 
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Aniket-Manhas/currency-converter.git>
 cd currency-converter
 ```
 
@@ -38,11 +41,6 @@ npm install
 3. Start the development server
 ```bash
 npm run dev
-```
-
-4. Build for production
-```bash
-npm run build
 ```
 
 ## Usage
